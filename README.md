@@ -1,90 +1,184 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Ray%20Santos&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%7C%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20Tailwind&descSize=18&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,40:211044,100:7c3aed&height=240&section=header&text=RAY%20SANTOS&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20BUILDING%20THE%20NEXT%20LEVEL&descSize=13&descAlignY=55&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Ray+%F0%9F%91%8B;Node.js+Developer;React+%2B+Tailwind+lover;Construindo+coisas+em+tempo+real;Direto+do+Cear%C3%A1+%F0%9F%8C%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=%3E+Inicializando+RayOS...;%3E+Node.js+%7C+React+%7C+MySQL;%3E+Transformando+ideias+em+sistemas;%3E+Nova+miss%C3%A3o%3A+subir+de+level+%F0%9F%8E%AE" alt="Terminal animado" />
 </a>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=raySANTOS01&label=Visitas&color=8B5CF6&style=for-the-badge" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=raySANTOS01&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-22c55e?style=for-the-badge&logo=statuspal&logoColor=white" />
+<img src="https://img.shields.io/badge/LOCATION-CEAR%C3%81%2C%20BR-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br /><br />
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-PORTFOLIO.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-USUARIO)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
+<a href="https://SEU-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/SEU-USUARIO"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 ---
 
-###  Sobre mim
-
-Desenvolvedor full-stack e criador de conteúdo digital. Construo sistemas, APIs e dashboards com **Node.js**, interfaces rápidas com **React + Tailwind**, e junto código com marketing pra entregar projeto que funciona e vende.
+## 👾 PLAYER PROFILE
 
 ```js
-const ray = {
-  base: "Ceará, Brasil",
-  front: ["React", "Tailwind", "Vite"],
-  back: ["Node.js", "Express", "MySQL"],
-  aprendendo: ["SQL avançado", "Autenticação"],
-  hobby: "construir coisa nova toda semana",
-}
+const player = {
+  name: "Ray Santos",
+  class: "Full-Stack Developer",
+  region: "Ceará, Brasil",
+  specialization: ["APIs", "Dashboards", "Business Systems"],
+  mainWeapons: ["Node.js", "React", "MySQL"],
+  currentlyLearning: ["SQL avançado", "Autenticação"],
+  objective: "Transformar problemas reais em software."
+};
 ```
 
-### 🛠️ Stack
+Desenvolvedor focado em criar **sistemas web, APIs e dashboards interativos**. Gosto de transformar processos manuais em soluções digitais, trabalhar com dados em tempo real e construir interfaces que combinam funcionalidade com uma boa experiência de uso.
+
+Meu objetivo é evoluir constantemente, desenvolver projetos úteis e dominar cada vez mais o ecossistema JavaScript.
+
+## 🕹️ DEVELOPER QUESTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ MAIN QUEST
+
+**Sistemas em tempo real**
+
+- [x] Desenvolver APIs REST
+- [x] Criar interfaces com React
+- [x] Integrar aplicações com MySQL
+- [ ] Evoluir arquitetura e segurança
+- [ ] Aprimorar performance e escalabilidade
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 SIDE QUESTS
+
+**Novas habilidades**
+
+- [x] Git e GitHub
+- [x] Node.js e Express
+- [x] React e Tailwind CSS
+- [ ] SQL avançado
+- [ ] Autenticação e autorização
+- [ ] Infraestrutura e deploy
+
+</td>
+</tr>
+</table>
+
+## 🧰 INVENTORY — TECH STACK
 
 <div align="center">
 
-**Frontend**
+### 🖥️ Frontend
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,js,html,css" />
 
-**Backend**
+### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma" />
 
-**Tools**
+### 🔧 Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
 </div>
 
-### ⚡ Em andamento
+## 🚀 ACTIVE MISSIONS
 
-| Projeto | Stack |
-|---|---|
-| 📊 Dashboard de ranking de vendas ao vivo | Node · Socket.io · Prisma · React · Tailwind |
-| 🎯 CRM de leads com distribuição automática | Node.js · MySQL |
-| 📄 Gerador de propostas em Excel e Word | Node.js |
-| 🔍 Scanner OCR que preenche documentos | Node.js · OCR · DOCX |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📈 Estatísticas
+### 📊 Live Sales Ranking
+
+Sistema de ranking de vendas com atualização em tempo real, metas e visualização para dashboards e TVs.
+
+**Tech:** `Node.js` `Socket.IO` `Prisma` `React` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Lead Management CRM
+
+Sistema para organizar leads comerciais e desenvolver fluxos de distribuição e acompanhamento de oportunidades.
+
+**Tech:** `Node.js` `Express` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Document Automation
+
+Automação para gerar propostas e documentos a partir de dados estruturados.
+
+**Tech:** `Node.js` `Excel` `Word`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 OCR Document Scanner
+
+Projeto para explorar reconhecimento de texto em documentos e automatizar o preenchimento de informações.
+
+**Tech:** `Node.js` `OCR` `DOCX`
+
+</td>
+</tr>
+</table>
+
+## 📡 PLAYER STATS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raySANTOS01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raySANTOS01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raySANTOS01&show_icons=true&hide_border=true&bg_color=09090f&title_color=A78BFA&icon_color=8B5CF6&text_color=E4E4E7&rank_icon=github" />
 
-<img src="https://streak-stats.demolab.com?user=raySANTOS01&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raySANTOS01&layout=compact&hide_border=true&bg_color=09090f&title_color=A78BFA&text_color=E4E4E7&langs_count=8" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=raySANTOS01&hide_border=true&background=09090f&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" width="80%" />
+
+</div>
+
+## 🏆 ACHIEVEMENT ROOM
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=raySANTOS01&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="100%" />
+
+</div>
+
+## 🌌 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/raySANTOS01/raySANTOS01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação das contribuições do GitHub" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raySANTOS01&bg_color=09090f&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 KEEP BUILDING. KEEP EVOLVING.
+
+<code>while (alive) { learn(); build(); improve(); }</code>
 
 <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=raySANTOS01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raySANTOS01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true" width="100%" />
-
-</div>
-
-<div align="center">
-
-### 💜
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,60:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,60:211044,100:09090f&height=130&section=footer" width="100%" />
 
 </div>
