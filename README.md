@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
 Desenvolvedor full-stack e criador de conteúdo digital. Construo sistemas, APIs e dashboards com **Node.js**, interfaces rápidas com **React + Tailwind**, e junto código com marketing pra entregar projeto que funciona e vende.
 
@@ -32,7 +32,7 @@ const ray = {
   base: "Ceará, Brasil",
   front: ["React", "Tailwind", "Vite"],
   back: ["Node.js", "Express", "MySQL"],
-  aprendendo: ["TypeScript", "SQL avançado", "Autenticação"],
+  aprendendo: ["SQL avançado", "Autenticação"],
   hobby: "construir coisa nova toda semana",
 }
 ```
