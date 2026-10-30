@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,40:211044,100:7c3aed&height=240&section=header&text=RAY%20SANTOS&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20BUILDING%20THE%20NEXT%20LEVEL&descSize=13&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="assets/ray-santos-neon-natural.gif" width="100%" alt="Ray Santos - Full Stack Developer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=%3E+Inicializando+RayOS...;%3E+Node.js+%7C+React+%7C+MySQL;%3E+Transformando+ideias+em+sistemas;%3E+Nova+miss%C3%A3o%3A+subir+de+level+%F0%9F%8E%AE" alt="Terminal animado" />
@@ -13,6 +13,16 @@
 <img src="https://img.shields.io/badge/LOCATION-CEAR%C3%81%2C%20BR-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br /><br />
+
+<a href="https://SEU-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/ray_sant0ss_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+</div>
+
+---
+
+
 
 <a href="https://SEU-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
